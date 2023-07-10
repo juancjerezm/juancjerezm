@@ -5,11 +5,7 @@
 </p>
 
 
-<br>
 
-
-
-	
 ## Acerca de mi
 
 
