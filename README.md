@@ -29,6 +29,12 @@
 - Mi objetivo es crear soluciones web eficientes y atractivas, que cumplan con los requerimientos del proyecto y brinden una excelente experiencia al usuario. Me apasiona encontrar formas innovadoras de abordar los 	 
   desafíos y mejorar la funcionalidad de las aplicaciones.
 
+  <br>
+
+## ¿Hacia dónde me dirijo?:
+
+- Mi objetivo es continuar creciendo y aprendiendo en el campo del desarrollo full stack. Estoy comprometido en mantenerme al tanto de las últimas tendencias y mejores prácticas, con el fin de contribuir al desarrollo de aplicaciones web robustas y escalables. Me apasiona seguir evolucionando en mi conocimiento y habilidades, y estoy emocionado/a por enfrentar nuevos desafíos y explorar nuevas oportunidades en este apasionante campo.
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
