@@ -17,15 +17,17 @@
 <br>
 
 
-- Hello, and welcome to my GitHub profile! My name is Abdul Khalid, and I am a self-taught front-end developer with a passion for creating engaging and user-friendly web applications. 
+- ¡Hola y bienvenido a mi perfil de GitHub! Soy un desarrollador full stack. He descubierto mi afinidad por la lógica y los algoritmos, y me apasiona enfrentar desafíos y encontrar la manera más efectiva de optimizar los sistemas. Aunque soy nuevo, me entusiasma todo el potencial al que se puede llegar a través de líneas de código, y es emocionante pensar en todas las soluciones posibles para cada problema y situación. 
 
 
 
-- I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:juanchob612@gmail.com">juanchob612@gmail.com</a>
+- Siempre estoy abierto a nuevas ideas y oportunidades para colaborar, trabajar o realizar un proyecto o simplemente quieres saludar, no dudes en contactarme en <a href="mailto:juanchob612@gmail.com">juanchob612@gmail.com</a>
 
-- Thank you for visiting my profile, and I look forward to connecting with you!
 
-<br><br>
+
+<br>
+
+## ¿Qué hago?
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
