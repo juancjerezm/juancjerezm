@@ -25,10 +25,16 @@
 
 ## ¿Qué hago?
 
+- Como desarrollador full stack, mi enfoque se centra en la resolución de problemas complejos y la entrega exitosa de aplicaciones web. Me especializo en el desarrollo de soluciones basadas en el stack tecnológico que domino. Sin embargo, siempre estoy comprometido con el aprendizaje continuo para mantenerme actualizado y poder ofrecer mi máximo potencial.
+- Mi objetivo es crear soluciones web eficientes y atractivas, que cumplan con los requerimientos del proyecto y brinden una excelente experiencia al usuario. Me apasiona encontrar formas innovadoras de abordar los 	 
+  desafíos y mejorar la funcionalidad de las aplicaciones.
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
+
+
 
 <p align="center">
    
