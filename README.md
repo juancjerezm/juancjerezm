@@ -49,45 +49,31 @@
     ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
   
 
-
-  
-
-<br>
-
-
-
 <br>
 
 -----
 
 <br>
-<br>
 
-## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
+
+## <b> Conectemos..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
+<a href="https://www.linkedin.com/in/juan-carlos-jerez-morales-29902a28/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Juan Carlos-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
 </a>
 </li>
 
 <br>
 
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter/>
-</a>
-</li>
-
-<br>
 
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
+<a href="mailto:juanchob612@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Juan Carlos-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
 </a>
 </li>
 	
