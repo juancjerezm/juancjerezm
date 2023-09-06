@@ -39,7 +39,7 @@
   <br>
 
 ## ¿Hacia dónde me dirijo?:
-
+<img align="right" src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width=20%>
 - Mi objetivo es continuar creciendo y aprendiendo en el campo del desarrollo full stack. Estoy comprometido en mantenerme al tanto de las últimas tendencias y mejores prácticas, con el fin de contribuir al desarrollo de aplicaciones web robustas y escalables. Me apasiona seguir evolucionando en mi conocimiento y habilidades, y estoy emocionado/a por enfrentar nuevos desafíos y explorar nuevas oportunidades en este apasionante campo.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
