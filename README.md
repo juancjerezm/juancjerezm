@@ -11,7 +11,7 @@
 
 
 
-## <img src="https://media.giphy.com/media/77rvjVcaJr1BgKSXtR/giphy.gif" width=5%> Acerca de mi
+## <img src="https://media.giphy.com/media/77rvjVcaJr1BgKSXtR/giphy.gif" width=8%> Acerca de mi
 <!--<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>-->
 
 
