@@ -12,7 +12,7 @@
 
 
 ## <img src="https://media.giphy.com/media/77rvjVcaJr1BgKSXtR/giphy.gif" width=5%> Acerca de mi
-<!--<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>-->
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=20%>
 
 
 
@@ -30,6 +30,7 @@
 <br>
 
 ## ¿Qué hago?
+<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp5ems0ZmgwNjdjaTJvMXIwNDdibTlybmQ5MDVmbWc3bXUyZ3ZrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a2NGxOdWIn6kGKdKM6/giphy.gif" width=20%>
 
 - Como desarrollador full stack, mi enfoque se centra en la resolución de problemas complejos y la entrega exitosa de aplicaciones web. Me especializo en el desarrollo de soluciones basadas en el stack tecnológico que domino. Sin embargo, siempre estoy comprometido con el aprendizaje continuo para mantenerme actualizado y poder ofrecer mi máximo potencial.
 - Mi objetivo es crear soluciones web eficientes y atractivas, que cumplan con los requerimientos del proyecto y brinden una excelente experiencia al usuario. Me apasiona encontrar formas innovadoras de abordar los 	 
